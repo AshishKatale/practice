@@ -1,0 +1,9 @@
+[submodule "cpp"]
+	path = cpp
+	url = git@github.com:AshishKatale/cpp.git
+[submodule "golang"]
+	path = golang
+	url = git@github.com:AshishKatale/golang.git
+[submodule "rust"]
+	path = rust
+	url = git@github.com:AshishKatale/rust.git
